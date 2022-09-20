@@ -1,0 +1,1 @@
+[28-Feb-2022 18:08:06 Asia/Kolkata] PHP Fatal error:  Call to undefined method User_Model::insertOdm() in /home/hjebusia/sobhasentosa.sobhaproperty.co/application/controllers/Pview.php on line 300
